@@ -1,4 +1,4 @@
-module zmx-picker
+module github.com/magicmark/zmx-picker
 
 go 1.25.4
 
